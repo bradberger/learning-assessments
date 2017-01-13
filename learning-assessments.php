@@ -16,6 +16,22 @@ add_shortcode('learning-assessment-1', function() {
     include_once dirname(__FILE__) . '/includes/learning-assesment-1.php';
 });
 
+add_shortcode('learning-assessment-2', function() {
+    include_once dirname(__FILE__) . '/includes/learning-assesment-1.php';
+});
+
+add_shortcode('learning-assessment-3', function() {
+    include_once dirname(__FILE__) . '/includes/learning-assesment-1.php';
+});
+
+add_shortcode('learning-assessment-4', function() {
+    include_once dirname(__FILE__) . '/includes/learning-assesment-1.php';
+});
+
+add_shortcode('learning-assessment-5', function() {
+    include_once dirname(__FILE__) . '/includes/learning-assesment-1.php';
+});
+
 add_shortcode('dyslexia-screener', function() {
     include_once dirname(__FILE__) . '/includes/dyslexia-screener.php';
 });
