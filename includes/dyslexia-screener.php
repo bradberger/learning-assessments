@@ -1,4 +1,4 @@
-<div id="san-diego"><!-- San Diego Test Front Page  -->
+<div id="san-diego" style="height: auto !important;"><!-- San Diego Test Front Page  -->
 <div class="layer" data-layer="0"><img data-base64="books" style="float:left; margin-left:-20px" /><br />
 <br />
 <br />
@@ -149,10 +149,9 @@ Be fair but be accurate!</h3>
 <h1>Student</h1>
 
 <h1 style="font-weight: normal">Reads independently at level</h1>
-
+<strong class="primary-result"></strong>
 <h1 style="font-weight: normal">Is able to correctly say the sounds of the letters<br />
-at</h1>
-
+at <strong class="secondary-result">less than Level 1</strong></h1>
 <p class="third-result"></p>
 <br />
 <button>Next</button></div>
